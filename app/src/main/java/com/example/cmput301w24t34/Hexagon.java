@@ -4,8 +4,7 @@ public class Hexagon extends Shape {
     protected Integer width;
     protected Integer height;
 
-    public Hexagon(Integer x, Integer y, Integer width, Integer height) {
-        super(x, y);
+    public Hexagon(Integer width, Integer height) {
         this.width = width;
         this.height = height;
     }
