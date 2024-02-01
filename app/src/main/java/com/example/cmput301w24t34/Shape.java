@@ -9,6 +9,9 @@ public abstract class Shape {
     public Shape(Integer x, Integer y) {
         this.x = x;
         this.y = y;
+
     }
 
+    }
+   
 }
